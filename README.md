@@ -13,7 +13,7 @@ The experiments are conducted on Linux, with Python version 3.7.4, PyTorch versi
 
 To set up the environment:
 ```sh
-git clone https://github.com/Ironprop-Stone/DeepGate.git
+git clone https://github.com/cure-lab/DeepGate.git
 cd deepgate
 conda create -n deepgate python=3.7.4
 conda activate deepgate
